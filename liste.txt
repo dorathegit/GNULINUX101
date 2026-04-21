@@ -1,10 +1,10 @@
-Ahmet Yilmaz,Mühendis,Ankara
+Ahmet Yilmaz,Muhendis,Ankara
 Zeynep Kaya,Doktor,Istanbul
-ahmet yilmaz,Mühendis,Ankara
+ahmet yilmaz,Muhendis,Ankara
 Mehmet Demir,Teknisyen,Izmir
-Ayşe Yıldız,Mühendis,Bursa
+Ayse Yildiz,Muhendis,Bursa
 Zeynep Kaya,Doktor,Istanbul
 Caner Tekin,Analist,Ankara
-Merve Aydın,Mühendis,Antalya
-MEHMET DEMİR,Teknisyen,Izmir
-Elif Şahin,Mimar,Ankara
+Merve Aydin,Muhendis,Antalya
+MEHMET DEMIR,Teknisyen,Izmir
+Elif Sahin,Mimar,Ankara
