@@ -1,4 +1,4 @@
-hmet Yilmaz,Mühendis,Ankara
+Ahmet Yilmaz,Mühendis,Ankara
 Zeynep Kaya,Doktor,Istanbul
 ahmet yilmaz,Mühendis,Ankara
 Mehmet Demir,Teknisyen,Izmir
